@@ -1,12 +1,8 @@
-# Workshop-EVIC-2025
+# 🤖 Workshop-EVIC-2025: Construcción de Agentes de IA con OCI Generative AI y LangChain
 Agente con Llama 4 - Grok-4 en OCI + Tavily + Detect Intent + Markdown (demo para workshop).
 
-# workshop_UAI
-Workshop para el Open Startup Fest UAI
-# 🤖 Workshop: Construcción de Agentes de IA con OCI Generative AI y LangChain
-
 **Facilitadora:** Karina Galindez – AI Engineer @Oracle  
-**Organiza:** Universidad Adolfo Ibáñez  
+**Organiza:** Universidad de Los Andes  
 ---
 
 ## 🎯 Objetivo del Workshop
@@ -15,10 +11,7 @@ Aprender a construir un **agente inteligente basado en Generative AI**, utilizan
 
 Al finalizar el workshop, los participantes serán capaces de:
 - Comprender la arquitectura de **OCI Generative AI** y sus principales servicios.  
-- Crear un agente sin código con el **OCI Agents Service**.
-- Probar un flujo completo con documentos propios y consultas naturales.
 - Integrar un agente con **LangChain**.  
-
 
 ---
 
